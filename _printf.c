@@ -6,9 +6,6 @@
  *
  * Return: number of characters printed.
  */
-int print_buf(buffer, ibuf);
-int free(buffer);
-int va_end(arguments);
 int _printf(const char *format, ...)
 {
 	unsigned int a = 0, b = 0, ibuf = 0;
