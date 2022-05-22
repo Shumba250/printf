@@ -1,9 +1,10 @@
 #include "main.h"
 /**
- * ev_print_func - returns the any amount of identifiers.
+ * ev_print_func - has to return any amount of identifiers.
  * @s: argument indentifier
  * @index: index of argument identifier.
  * Return: amount of identifiers.
+ * 
  */
 int ev_print_func(const char *s, int index)
 {
