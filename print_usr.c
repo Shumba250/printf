@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * print_usr - prints a string and values of
- * non-printed chars
+ * non-printed charcters
  * @arguments: input string
  * @buf: buffer pointer
  * @ibuf: index for buffer pointer
