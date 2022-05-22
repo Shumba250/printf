@@ -5,6 +5,7 @@
  * @buf: buffer pointer
  * @nbuf: number of bytes to print
  * Return: number of bytes printed.
+ * 
  */
 int print_buf(char *buf, unsigned int nbuf)
 {
