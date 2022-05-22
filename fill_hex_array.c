@@ -30,3 +30,4 @@ char *fill_hex_array(char *bnr, char *hex, int isupp, int limit)
 	}
 	return (hex);
 }
+
